@@ -8,7 +8,7 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript?color=f7df1e)
+![](https://img.shields.io/badge/Code-JavaScript-yellow?color=f7df1e?style=flat-square&logo=javascript)
 
 
 ## 📈 Github Stats
