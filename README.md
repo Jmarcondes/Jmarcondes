@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/Tools-Visual_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Tools-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)
-![](https://img.shields.io/badge/Tools-NetBeans-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logo-color=white)
+![](https://img.shields.io/badge/Tools-NetBeans-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=white)
 
 
 ## 📈 Github Stats
