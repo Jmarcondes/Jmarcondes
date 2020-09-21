@@ -10,7 +10,7 @@
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/Code-HTLM-orange?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3?logoColor=blue)
 
 
 ## 📈 Github Stats
