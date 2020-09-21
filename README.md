@@ -2,6 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/linkedin.png" width="2%">](https://www.linkedin.com/in/jmarcondesjr/)
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 ##### :octocat: Olá, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
 
