@@ -1,6 +1,8 @@
-### 🖖 Vida longa e próspera
+### 🖖 Live long and prosper
 
 ##### :octocat: Olá, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
+
+###### :octocat: Hello, My name is José Marcondes <br/> 🎓 I am a student in the final stretch of the Faculty of Computer Science.<br/>🤓 I love learning about new technologies and I have to say that I have a greater appreciation for front-end development 🎨.
 
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/linkedin.png" width="2%">](https://www.linkedin.com/in/jmarcondesjr/)
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
