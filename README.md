@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/Code-Apex-00A1E0?style=flat-square&logo=salesforce)
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/HTLM_5-FFA07A?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/HTLM_5-F1948A?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/CSS_3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/Tools-Visual_Code-007ACC?style=flat-square&logo=visual-studio-code)
