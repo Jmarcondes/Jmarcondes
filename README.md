@@ -9,11 +9,11 @@
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
-![](https://img.shields.io/badge/Code-C Sharp-purple?style=flat-square&logo=c_sharp)
+![](https://img.shields.io/badge/Code-C_Sharp-purple?style=flat-square&logo=c_sharp)
 ![](https://img.shields.io/badge/Code-C-grey?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/HTLM-orange?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/HTLM_5-orange?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/CSS_3-blue?style=flat-square&logo=css3)
 
 
 ## 📈 Github Stats
