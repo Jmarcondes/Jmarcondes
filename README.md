@@ -1,6 +1,6 @@
 ### 🖖 Vida longa e próspera
 
-##### Olá, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 Adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
+##### Olá :octocat:, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
