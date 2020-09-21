@@ -5,6 +5,8 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/linkedin.png" width="2%">](https://www.linkedin.com/in/jmarcondesjr/)
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
+## 📈 Github Stats
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&layout=compact&theme=dracula)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## Meus Repositórios
