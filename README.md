@@ -2,6 +2,9 @@
 
 ##### :octocat: Olá, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
 
+- 🌱 Atualmente estou aprendendo React
+- 📫 Como chegar até mim: 🐦 @_jmarcondes
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
 <br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
