@@ -9,7 +9,7 @@
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
-![](https://img.shields.io/badge/Code-C_#-purple?style=flat-square&logo=c-sharp)
+![](https://img.shields.io/badge/Code-C_Sharp-purple?style=flat-square&logo=c-sharp)
 ![](https://img.shields.io/badge/Code-C-grey?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/HTLM_5-orange?style=flat-square&logo=html5)
