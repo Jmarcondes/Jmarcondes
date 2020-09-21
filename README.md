@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/HTLM_5-orange?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/CSS_3-blue?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/Tools-Git-orange?style=flat-square&logo=git)
 
 
 ## 📈 Github Stats
