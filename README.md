@@ -3,15 +3,14 @@
 Sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front end.
 
 
-
-
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## Meus Repositórios
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)
+
+<div style="background-color:black"><div/>
 
 <!--
 **Jmarcondes/Jmarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
