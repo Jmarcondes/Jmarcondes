@@ -1,4 +1,6 @@
-### Olá 🖖, meu nome é José Marcondes 
+### 🖖 Vida longa e próspera
+
+##### Olá meu nome é José Marcondes 
 
 Sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front end.
 
@@ -10,7 +12,6 @@ Sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)
 
-<div style="background-color:black"><div/>
 
 <!--
 **Jmarcondes/Jmarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
