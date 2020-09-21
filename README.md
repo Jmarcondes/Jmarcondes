@@ -1,8 +1,7 @@
 ### Olá, 🖖 Vida longa e próspera
 
 ## about me:
-##### Me chamo José Marcondes tenho 23 e sou um estudante na reta final da faculdade de Ciência da Computação 🎓.
-##### Adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end
+##### Me chamo José Marcondes tenho 23 e sou um estudante na reta final da faculdade de Ciência da Computação 🎓.<br/> Adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
