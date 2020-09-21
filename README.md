@@ -1,14 +1,13 @@
 ### 🖖 Vida longa e próspera
 
-##### Olá :octocat:, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
-
+##### :octocat: Olá, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
+<br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## Meus Repositórios
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)
+<!--[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)-->
 
 
 <!--
