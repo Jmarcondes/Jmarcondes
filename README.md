@@ -7,7 +7,7 @@ sou um estudante de Ciência da Computação 🎓
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&layout=compact&theme=dracula)
 
 
-[! [Nome do repo] ( https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=jmarcondes)](https://github.com/Jmarcondes/salesforceFacilities)
+! [Nome do repo] ( https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=jmarcondes)
 
 <!--
 **Jmarcondes/Jmarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
