@@ -2,10 +2,8 @@
 
 sou um estudante de Ciência da Computação 🎓
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&layout=compact&theme=dracula)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)
 <!--
