@@ -1,11 +1,8 @@
 ### Olá 🖖, meu nome é José Marcondes 
 
-sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front end.
+Sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front end.
 
-- 🔭 Atualmente estou desempregado.
-- 🌱 Atualmente estou React Native
-- 📫 Como chegar até mim: :bird: @_jmarcondes
-- ⚡ Curiosidade: gosto de pizza e RPG.
+
 
 
 
