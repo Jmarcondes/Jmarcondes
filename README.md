@@ -8,9 +8,7 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/ <WORD_ON_LEFT> - <WORD_ON_RIGHT> -informational? style = flat & logo = #F7DF1E & logoColor = white & color = 2bbc8a)
-
+![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=appveyor)
 
 
 ## 📈 Github Stats
