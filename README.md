@@ -2,10 +2,10 @@
 
 sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front end.
 
-🔭 Atualmente estou desempregado.
-🌱 Atualmente estou React Native
-📫 Como chegar até mim: :bird: @_jmarcondes
-⚡ Curiosidade: gosto de pizza e RPG.
+- 🔭 Atualmente estou desempregado.
+- 🌱 Atualmente estou React Native
+- 📫 Como chegar até mim: :bird: @_jmarcondes
+- ⚡ Curiosidade: gosto de pizza e RPG.
 
 
 
