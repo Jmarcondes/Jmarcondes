@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo React
 - 📫 Como chegar até mim: 🐦 @_jmarcondes
 
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)-->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
 <br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
