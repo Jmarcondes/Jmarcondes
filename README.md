@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&layout=compact&theme=dracula)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=repo-name&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=repo-name&show_owner=true)](https://github.com/Jmarcondes/salesforceFacilities)
 
 <!--
 **Jmarcondes/Jmarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
