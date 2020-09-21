@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/CSS_3-blue?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/Tools-Git-orange?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/Tools-Visual_Code-blue?style=flat-square&logo=visual-studio-code)
-![](https://img.shields.io/badge/Tools-Eclipse-purple?style=flat-square&logo=eclipse-ide)
+![](https://img.shields.io/badge/Tools-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)
 
 
 ## 📈 Github Stats
