@@ -7,11 +7,15 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/linkedin.png" width="2%">](https://www.linkedin.com/in/jmarcondesjr/)
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
+## Technologies & Tools
+![](https://img.shields.io/badge/ <WORD_ON_LEFT> - <WORD_ON_RIGHT> -informational? style = flat & logo = <LOGO_NAME> & logoColor = white & color = 2bbc8a)
+
+
 ## 📈 Github Stats
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&layout=compact&theme=dracula)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
-## My Repos
+## My Repositories
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true&theme=dracula)](https://github.com/jmarcondes/salesforceFacilities)
 
 
