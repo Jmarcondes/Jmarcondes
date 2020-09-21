@@ -10,7 +10,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## Meus Repositórios
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true)](https://github.com/jmarcondes/salesforceFacilities)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true&theme=dracula)](https://github.com/jmarcondes/salesforceFacilities)
 
 
 <!--
