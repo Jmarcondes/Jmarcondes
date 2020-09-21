@@ -8,10 +8,10 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/ Code-Java-orange?style=flat-square&logo=java)
+![](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
 ![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/ HTLM-orange?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/ CSS-blue?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/HTLM-orange?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3)
 
 
 ## 📈 Github Stats
