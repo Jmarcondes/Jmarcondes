@@ -3,6 +3,7 @@
 sou um estudante de Ciência da Computação 🎓
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula)
+<br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## Meus Repositórios
