@@ -6,8 +6,7 @@ Sou um estudante de Ciência da Computação 🎓 e adoro desenvolvimento front 
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula)
-<br/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&theme=dracula&show_icons=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## Meus Repositórios
