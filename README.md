@@ -1,5 +1,8 @@
 ### 🖖 Vida longa e próspera
 
+[![Header](https://raw.githubusercontent.com/jmarcondes/<OWNER>/<OWNER>/linkedin.png "linkdin")](https://some-url.dev/)
+
+
 :octocat: Olá, Me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias e devo dizer que tenho um apreço maior pelo desenvolvimento front-end 🎨.
 
 - 🌱 Atualmente estou aprendendo React
