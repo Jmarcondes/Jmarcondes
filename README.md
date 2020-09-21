@@ -7,7 +7,7 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/linkedin.png" width="2%">](https://www.linkedin.com/in/jmarcondesjr/)
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
-## Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java)
 ![](https://img.shields.io/badge/Code-C_Sharp-5C2D91?style=flat-square&logo=c-sharp)
 ![](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c)
@@ -18,8 +18,6 @@
 ![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/Tools-Visual_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Tools-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)
-![](https://img.shields.io/badge/Tools-NetBeans-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=white&?logoWidth=70)
-
 
 ## 📈 Github Stats
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcondes&layout=compact&theme=dracula)
