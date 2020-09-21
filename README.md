@@ -8,15 +8,15 @@
 [<img src="https://raw.githubusercontent.com/Jmarcondes/Jmarcondes/master/twitter.png" width="2%">](https://twitter.com/_jmarcondes)
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java)
-![](https://img.shields.io/badge/Code-C_Sharp-purple?style=flat-square&logo=c-sharp)
-![](https://img.shields.io/badge/Code-C-grey?style=flat-square&logo=c)
-![](https://img.shields.io/badge/Code-Apex-blue?style=flat-square&logo=salesforce)
-![](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)
-![](https://img.shields.io/badge/HTLM_5-orange?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/CSS_3-blue?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/Tools-Git-orange?style=flat-square&logo=git)
-![](https://img.shields.io/badge/Tools-Visual_Code-blue?style=flat-square&logo=visual-studio-code)
+![](https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java)
+![](https://img.shields.io/badge/Code-C_Sharp-5C2D91?style=flat-square&logo=c-sharp)
+![](https://img.shields.io/badge/Code-C-A8B9CC?style=flat-square&logo=c)
+![](https://img.shields.io/badge/Code-Apex-00A1E0?style=flat-square&logo=salesforce)
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![](https://img.shields.io/badge/HTLM_5-E34F26?style=flat-square&logo=html5)
+![](https://img.shields.io/badge/CSS_3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/Tools-Git-F05032?style=flat-square&logo=git)
+![](https://img.shields.io/badge/Tools-Visual_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![](https://img.shields.io/badge/Tools-Eclipse-2C2255?style=flat-square&logo=eclipse-ide)
 
 
