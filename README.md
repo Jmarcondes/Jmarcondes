@@ -26,7 +26,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jmarcondes&theme=dracula&show_icons=true)
 
 ## 💻 My Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=salesforceFacilities&show_owner=true&theme=dracula)](https://github.com/jmarcondes/salesforceFacilities)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=Bin2Dec&show_owner=true&theme=dracula)](https://github.com/jmarcondes/Bin2Dec)
 
 <!--
