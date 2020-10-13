@@ -27,7 +27,7 @@
 
 ## 💻 My Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=Bin2Dec&show_owner=true&theme=dracula)](https://github.com/jmarcondes/Bin2Dec)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jmarcondes&repo=Happy&show_owner=true&theme=dracula)](https://github.com/jmarcondes/Happy)
 <!--
 **Jmarcondes/Jmarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
