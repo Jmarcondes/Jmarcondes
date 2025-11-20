@@ -1,11 +1,8 @@
 ### 🖖 Live long and prosper
 
 [<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/jmarcondesjr/)
-[<img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/_jmarcondes)
 
-##### :octocat: Olá, me chamo José Marcondes <br/> 🎓 sou um estudante na reta final da faculdade de Ciência da Computação.<br/>🤓 adoro aprender sobre novas tecnologias.
-
-###### :octocat: Hello, my name is José Marcondes <br/> 🎓 I am a student in the final stretch of the Faculty of Computer Science.<br/>🤓 I love learning about new technologies.
+###### :octocat: Hello, my name is José Marcondes <br/>
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-007396?style=flat-square&logo=java)
